@@ -1,0 +1,2686 @@
+[
+  {
+    "condition": "Headache Variant 1",
+    "dosha": "Pitta",
+    "symptoms": [
+      "burning sensation",
+      "irritability",
+      "light sensitivity"
+    ],
+    "remedies": [
+      "Brahmi",
+      "Amla",
+      "Coriander water"
+    ],
+    "diet": [
+      "cucumber",
+      "coconut water",
+      "avoid spicy food"
+    ],
+    "yoga": [
+      "Sheetali pranayama",
+      "Shavasana"
+    ],
+    "lifestyle": [
+      "sleep early",
+      "avoid screen exposure"
+    ],
+    "explanation": "Pitta imbalance causes heat accumulation leading to headaches."
+  },
+  {
+    "condition": "Anxiety Variant 1",
+    "dosha": "Vata",
+    "symptoms": [
+      "restlessness",
+      "overthinking",
+      "insomnia"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "warm milk",
+      "sesame oil massage"
+    ],
+    "diet": [
+      "warm cooked food",
+      "avoid cold food"
+    ],
+    "yoga": [
+      "Yoga Nidra",
+      "deep breathing"
+    ],
+    "lifestyle": [
+      "fixed routine",
+      "reduce stimulation"
+    ],
+    "explanation": "Vata imbalance disturbs the nervous system causing anxiety."
+  },
+  {
+    "condition": "Obesity Variant 1",
+    "dosha": "Kapha",
+    "symptoms": [
+      "weight gain",
+      "lethargy",
+      "slow metabolism"
+    ],
+    "remedies": [
+      "Triphala",
+      "ginger tea",
+      "honey water"
+    ],
+    "diet": [
+      "light food",
+      "avoid sugar",
+      "avoid dairy"
+    ],
+    "yoga": [
+      "Surya Namaskar",
+      "cardio yoga"
+    ],
+    "lifestyle": [
+      "exercise daily",
+      "wake early"
+    ],
+    "explanation": "Kapha imbalance leads to sluggish metabolism."
+  },
+  {
+    "condition": "Indigestion Variant 1",
+    "dosha": "Pitta-Vata",
+    "symptoms": [
+      "bloating",
+      "gas",
+      "acidity"
+    ],
+    "remedies": [
+      "Jeera water",
+      "hing",
+      "fennel seeds"
+    ],
+    "diet": [
+      "light meals",
+      "avoid fried food"
+    ],
+    "yoga": [
+      "Vajrasana",
+      "Pavanmuktasana"
+    ],
+    "lifestyle": [
+      "eat on time"
+    ],
+    "explanation": "Weak digestive fire leads to indigestion."
+  },
+  {
+    "condition": "Common Cold Variant 1",
+    "dosha": "Kapha",
+    "symptoms": [
+      "cough",
+      "mucus",
+      "congestion"
+    ],
+    "remedies": [
+      "Tulsi",
+      "ginger",
+      "honey"
+    ],
+    "diet": [
+      "warm fluids",
+      "avoid cold drinks"
+    ],
+    "yoga": [
+      "Anulom Vilom"
+    ],
+    "lifestyle": [
+      "stay warm"
+    ],
+    "explanation": "Kapha accumulation causes congestion."
+  },
+  {
+    "condition": "Insomnia Variant 1",
+    "dosha": "Vata",
+    "symptoms": [
+      "difficulty sleeping",
+      "restlessness"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "warm milk"
+    ],
+    "diet": [
+      "light dinner"
+    ],
+    "yoga": [
+      "Yoga Nidra"
+    ],
+    "lifestyle": [
+      "sleep routine"
+    ],
+    "explanation": "Vata imbalance overstimulates mind."
+  },
+  {
+    "condition": "Acidity Variant 1",
+    "dosha": "Pitta",
+    "symptoms": [
+      "burning chest",
+      "acid reflux"
+    ],
+    "remedies": [
+      "Amla",
+      "coconut water"
+    ],
+    "diet": [
+      "cooling foods"
+    ],
+    "yoga": [
+      "Sheetali pranayama"
+    ],
+    "lifestyle": [
+      "avoid late meals"
+    ],
+    "explanation": "Excess Pitta increases stomach acid."
+  },
+  {
+    "condition": "Fatigue Variant 1",
+    "dosha": "Vata",
+    "symptoms": [
+      "low energy",
+      "weakness"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "dates"
+    ],
+    "diet": [
+      "nutritious food"
+    ],
+    "yoga": [
+      "light yoga"
+    ],
+    "lifestyle": [
+      "proper rest"
+    ],
+    "explanation": "Vata imbalance drains energy."
+  },
+  {
+    "condition": "Skin Rash Variant 1",
+    "dosha": "Pitta",
+    "symptoms": [
+      "redness",
+      "irritation"
+    ],
+    "remedies": [
+      "Neem",
+      "Aloe vera"
+    ],
+    "diet": [
+      "cooling foods"
+    ],
+    "yoga": [
+      "cooling pranayama"
+    ],
+    "lifestyle": [
+      "avoid heat"
+    ],
+    "explanation": "Pitta causes inflammation."
+  },
+  {
+    "condition": "Joint Pain Variant 1",
+    "dosha": "Vata",
+    "symptoms": [
+      "pain",
+      "stiffness"
+    ],
+    "remedies": [
+      "turmeric",
+      "oil massage"
+    ],
+    "diet": [
+      "warm food"
+    ],
+    "yoga": [
+      "gentle stretching"
+    ],
+    "lifestyle": [
+      "daily massage"
+    ],
+    "explanation": "Vata dryness causes joint pain."
+  },
+  {
+    "condition": "Headache Variant 2",
+    "dosha": "Pitta",
+    "symptoms": [
+      "burning sensation",
+      "irritability",
+      "light sensitivity"
+    ],
+    "remedies": [
+      "Brahmi",
+      "Amla",
+      "Coriander water"
+    ],
+    "diet": [
+      "cucumber",
+      "coconut water",
+      "avoid spicy food"
+    ],
+    "yoga": [
+      "Sheetali pranayama",
+      "Shavasana"
+    ],
+    "lifestyle": [
+      "sleep early",
+      "avoid screen exposure"
+    ],
+    "explanation": "Pitta imbalance causes heat accumulation leading to headaches."
+  },
+  {
+    "condition": "Anxiety Variant 2",
+    "dosha": "Vata",
+    "symptoms": [
+      "restlessness",
+      "overthinking",
+      "insomnia"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "warm milk",
+      "sesame oil massage"
+    ],
+    "diet": [
+      "warm cooked food",
+      "avoid cold food"
+    ],
+    "yoga": [
+      "Yoga Nidra",
+      "deep breathing"
+    ],
+    "lifestyle": [
+      "fixed routine",
+      "reduce stimulation"
+    ],
+    "explanation": "Vata imbalance disturbs the nervous system causing anxiety."
+  },
+  {
+    "condition": "Obesity Variant 2",
+    "dosha": "Kapha",
+    "symptoms": [
+      "weight gain",
+      "lethargy",
+      "slow metabolism"
+    ],
+    "remedies": [
+      "Triphala",
+      "ginger tea",
+      "honey water"
+    ],
+    "diet": [
+      "light food",
+      "avoid sugar",
+      "avoid dairy"
+    ],
+    "yoga": [
+      "Surya Namaskar",
+      "cardio yoga"
+    ],
+    "lifestyle": [
+      "exercise daily",
+      "wake early"
+    ],
+    "explanation": "Kapha imbalance leads to sluggish metabolism."
+  },
+  {
+    "condition": "Indigestion Variant 2",
+    "dosha": "Pitta-Vata",
+    "symptoms": [
+      "bloating",
+      "gas",
+      "acidity"
+    ],
+    "remedies": [
+      "Jeera water",
+      "hing",
+      "fennel seeds"
+    ],
+    "diet": [
+      "light meals",
+      "avoid fried food"
+    ],
+    "yoga": [
+      "Vajrasana",
+      "Pavanmuktasana"
+    ],
+    "lifestyle": [
+      "eat on time"
+    ],
+    "explanation": "Weak digestive fire leads to indigestion."
+  },
+  {
+    "condition": "Common Cold Variant 2",
+    "dosha": "Kapha",
+    "symptoms": [
+      "cough",
+      "mucus",
+      "congestion"
+    ],
+    "remedies": [
+      "Tulsi",
+      "ginger",
+      "honey"
+    ],
+    "diet": [
+      "warm fluids",
+      "avoid cold drinks"
+    ],
+    "yoga": [
+      "Anulom Vilom"
+    ],
+    "lifestyle": [
+      "stay warm"
+    ],
+    "explanation": "Kapha accumulation causes congestion."
+  },
+  {
+    "condition": "Insomnia Variant 2",
+    "dosha": "Vata",
+    "symptoms": [
+      "difficulty sleeping",
+      "restlessness"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "warm milk"
+    ],
+    "diet": [
+      "light dinner"
+    ],
+    "yoga": [
+      "Yoga Nidra"
+    ],
+    "lifestyle": [
+      "sleep routine"
+    ],
+    "explanation": "Vata imbalance overstimulates mind."
+  },
+  {
+    "condition": "Acidity Variant 2",
+    "dosha": "Pitta",
+    "symptoms": [
+      "burning chest",
+      "acid reflux"
+    ],
+    "remedies": [
+      "Amla",
+      "coconut water"
+    ],
+    "diet": [
+      "cooling foods"
+    ],
+    "yoga": [
+      "Sheetali pranayama"
+    ],
+    "lifestyle": [
+      "avoid late meals"
+    ],
+    "explanation": "Excess Pitta increases stomach acid."
+  },
+  {
+    "condition": "Fatigue Variant 2",
+    "dosha": "Vata",
+    "symptoms": [
+      "low energy",
+      "weakness"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "dates"
+    ],
+    "diet": [
+      "nutritious food"
+    ],
+    "yoga": [
+      "light yoga"
+    ],
+    "lifestyle": [
+      "proper rest"
+    ],
+    "explanation": "Vata imbalance drains energy."
+  },
+  {
+    "condition": "Skin Rash Variant 2",
+    "dosha": "Pitta",
+    "symptoms": [
+      "redness",
+      "irritation"
+    ],
+    "remedies": [
+      "Neem",
+      "Aloe vera"
+    ],
+    "diet": [
+      "cooling foods"
+    ],
+    "yoga": [
+      "cooling pranayama"
+    ],
+    "lifestyle": [
+      "avoid heat"
+    ],
+    "explanation": "Pitta causes inflammation."
+  },
+  {
+    "condition": "Joint Pain Variant 2",
+    "dosha": "Vata",
+    "symptoms": [
+      "pain",
+      "stiffness"
+    ],
+    "remedies": [
+      "turmeric",
+      "oil massage"
+    ],
+    "diet": [
+      "warm food"
+    ],
+    "yoga": [
+      "gentle stretching"
+    ],
+    "lifestyle": [
+      "daily massage"
+    ],
+    "explanation": "Vata dryness causes joint pain."
+  },
+  {
+    "condition": "Headache Variant 3",
+    "dosha": "Pitta",
+    "symptoms": [
+      "burning sensation",
+      "irritability",
+      "light sensitivity"
+    ],
+    "remedies": [
+      "Brahmi",
+      "Amla",
+      "Coriander water"
+    ],
+    "diet": [
+      "cucumber",
+      "coconut water",
+      "avoid spicy food"
+    ],
+    "yoga": [
+      "Sheetali pranayama",
+      "Shavasana"
+    ],
+    "lifestyle": [
+      "sleep early",
+      "avoid screen exposure"
+    ],
+    "explanation": "Pitta imbalance causes heat accumulation leading to headaches."
+  },
+  {
+    "condition": "Anxiety Variant 3",
+    "dosha": "Vata",
+    "symptoms": [
+      "restlessness",
+      "overthinking",
+      "insomnia"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "warm milk",
+      "sesame oil massage"
+    ],
+    "diet": [
+      "warm cooked food",
+      "avoid cold food"
+    ],
+    "yoga": [
+      "Yoga Nidra",
+      "deep breathing"
+    ],
+    "lifestyle": [
+      "fixed routine",
+      "reduce stimulation"
+    ],
+    "explanation": "Vata imbalance disturbs the nervous system causing anxiety."
+  },
+  {
+    "condition": "Obesity Variant 3",
+    "dosha": "Kapha",
+    "symptoms": [
+      "weight gain",
+      "lethargy",
+      "slow metabolism"
+    ],
+    "remedies": [
+      "Triphala",
+      "ginger tea",
+      "honey water"
+    ],
+    "diet": [
+      "light food",
+      "avoid sugar",
+      "avoid dairy"
+    ],
+    "yoga": [
+      "Surya Namaskar",
+      "cardio yoga"
+    ],
+    "lifestyle": [
+      "exercise daily",
+      "wake early"
+    ],
+    "explanation": "Kapha imbalance leads to sluggish metabolism."
+  },
+  {
+    "condition": "Indigestion Variant 3",
+    "dosha": "Pitta-Vata",
+    "symptoms": [
+      "bloating",
+      "gas",
+      "acidity"
+    ],
+    "remedies": [
+      "Jeera water",
+      "hing",
+      "fennel seeds"
+    ],
+    "diet": [
+      "light meals",
+      "avoid fried food"
+    ],
+    "yoga": [
+      "Vajrasana",
+      "Pavanmuktasana"
+    ],
+    "lifestyle": [
+      "eat on time"
+    ],
+    "explanation": "Weak digestive fire leads to indigestion."
+  },
+  {
+    "condition": "Common Cold Variant 3",
+    "dosha": "Kapha",
+    "symptoms": [
+      "cough",
+      "mucus",
+      "congestion"
+    ],
+    "remedies": [
+      "Tulsi",
+      "ginger",
+      "honey"
+    ],
+    "diet": [
+      "warm fluids",
+      "avoid cold drinks"
+    ],
+    "yoga": [
+      "Anulom Vilom"
+    ],
+    "lifestyle": [
+      "stay warm"
+    ],
+    "explanation": "Kapha accumulation causes congestion."
+  },
+  {
+    "condition": "Insomnia Variant 3",
+    "dosha": "Vata",
+    "symptoms": [
+      "difficulty sleeping",
+      "restlessness"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "warm milk"
+    ],
+    "diet": [
+      "light dinner"
+    ],
+    "yoga": [
+      "Yoga Nidra"
+    ],
+    "lifestyle": [
+      "sleep routine"
+    ],
+    "explanation": "Vata imbalance overstimulates mind."
+  },
+  {
+    "condition": "Acidity Variant 3",
+    "dosha": "Pitta",
+    "symptoms": [
+      "burning chest",
+      "acid reflux"
+    ],
+    "remedies": [
+      "Amla",
+      "coconut water"
+    ],
+    "diet": [
+      "cooling foods"
+    ],
+    "yoga": [
+      "Sheetali pranayama"
+    ],
+    "lifestyle": [
+      "avoid late meals"
+    ],
+    "explanation": "Excess Pitta increases stomach acid."
+  },
+  {
+    "condition": "Fatigue Variant 3",
+    "dosha": "Vata",
+    "symptoms": [
+      "low energy",
+      "weakness"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "dates"
+    ],
+    "diet": [
+      "nutritious food"
+    ],
+    "yoga": [
+      "light yoga"
+    ],
+    "lifestyle": [
+      "proper rest"
+    ],
+    "explanation": "Vata imbalance drains energy."
+  },
+  {
+    "condition": "Skin Rash Variant 3",
+    "dosha": "Pitta",
+    "symptoms": [
+      "redness",
+      "irritation"
+    ],
+    "remedies": [
+      "Neem",
+      "Aloe vera"
+    ],
+    "diet": [
+      "cooling foods"
+    ],
+    "yoga": [
+      "cooling pranayama"
+    ],
+    "lifestyle": [
+      "avoid heat"
+    ],
+    "explanation": "Pitta causes inflammation."
+  },
+  {
+    "condition": "Joint Pain Variant 3",
+    "dosha": "Vata",
+    "symptoms": [
+      "pain",
+      "stiffness"
+    ],
+    "remedies": [
+      "turmeric",
+      "oil massage"
+    ],
+    "diet": [
+      "warm food"
+    ],
+    "yoga": [
+      "gentle stretching"
+    ],
+    "lifestyle": [
+      "daily massage"
+    ],
+    "explanation": "Vata dryness causes joint pain."
+  },
+  {
+    "condition": "Headache Variant 4",
+    "dosha": "Pitta",
+    "symptoms": [
+      "burning sensation",
+      "irritability",
+      "light sensitivity"
+    ],
+    "remedies": [
+      "Brahmi",
+      "Amla",
+      "Coriander water"
+    ],
+    "diet": [
+      "cucumber",
+      "coconut water",
+      "avoid spicy food"
+    ],
+    "yoga": [
+      "Sheetali pranayama",
+      "Shavasana"
+    ],
+    "lifestyle": [
+      "sleep early",
+      "avoid screen exposure"
+    ],
+    "explanation": "Pitta imbalance causes heat accumulation leading to headaches."
+  },
+  {
+    "condition": "Anxiety Variant 4",
+    "dosha": "Vata",
+    "symptoms": [
+      "restlessness",
+      "overthinking",
+      "insomnia"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "warm milk",
+      "sesame oil massage"
+    ],
+    "diet": [
+      "warm cooked food",
+      "avoid cold food"
+    ],
+    "yoga": [
+      "Yoga Nidra",
+      "deep breathing"
+    ],
+    "lifestyle": [
+      "fixed routine",
+      "reduce stimulation"
+    ],
+    "explanation": "Vata imbalance disturbs the nervous system causing anxiety."
+  },
+  {
+    "condition": "Obesity Variant 4",
+    "dosha": "Kapha",
+    "symptoms": [
+      "weight gain",
+      "lethargy",
+      "slow metabolism"
+    ],
+    "remedies": [
+      "Triphala",
+      "ginger tea",
+      "honey water"
+    ],
+    "diet": [
+      "light food",
+      "avoid sugar",
+      "avoid dairy"
+    ],
+    "yoga": [
+      "Surya Namaskar",
+      "cardio yoga"
+    ],
+    "lifestyle": [
+      "exercise daily",
+      "wake early"
+    ],
+    "explanation": "Kapha imbalance leads to sluggish metabolism."
+  },
+  {
+    "condition": "Indigestion Variant 4",
+    "dosha": "Pitta-Vata",
+    "symptoms": [
+      "bloating",
+      "gas",
+      "acidity"
+    ],
+    "remedies": [
+      "Jeera water",
+      "hing",
+      "fennel seeds"
+    ],
+    "diet": [
+      "light meals",
+      "avoid fried food"
+    ],
+    "yoga": [
+      "Vajrasana",
+      "Pavanmuktasana"
+    ],
+    "lifestyle": [
+      "eat on time"
+    ],
+    "explanation": "Weak digestive fire leads to indigestion."
+  },
+  {
+    "condition": "Common Cold Variant 4",
+    "dosha": "Kapha",
+    "symptoms": [
+      "cough",
+      "mucus",
+      "congestion"
+    ],
+    "remedies": [
+      "Tulsi",
+      "ginger",
+      "honey"
+    ],
+    "diet": [
+      "warm fluids",
+      "avoid cold drinks"
+    ],
+    "yoga": [
+      "Anulom Vilom"
+    ],
+    "lifestyle": [
+      "stay warm"
+    ],
+    "explanation": "Kapha accumulation causes congestion."
+  },
+  {
+    "condition": "Insomnia Variant 4",
+    "dosha": "Vata",
+    "symptoms": [
+      "difficulty sleeping",
+      "restlessness"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "warm milk"
+    ],
+    "diet": [
+      "light dinner"
+    ],
+    "yoga": [
+      "Yoga Nidra"
+    ],
+    "lifestyle": [
+      "sleep routine"
+    ],
+    "explanation": "Vata imbalance overstimulates mind."
+  },
+  {
+    "condition": "Acidity Variant 4",
+    "dosha": "Pitta",
+    "symptoms": [
+      "burning chest",
+      "acid reflux"
+    ],
+    "remedies": [
+      "Amla",
+      "coconut water"
+    ],
+    "diet": [
+      "cooling foods"
+    ],
+    "yoga": [
+      "Sheetali pranayama"
+    ],
+    "lifestyle": [
+      "avoid late meals"
+    ],
+    "explanation": "Excess Pitta increases stomach acid."
+  },
+  {
+    "condition": "Fatigue Variant 4",
+    "dosha": "Vata",
+    "symptoms": [
+      "low energy",
+      "weakness"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "dates"
+    ],
+    "diet": [
+      "nutritious food"
+    ],
+    "yoga": [
+      "light yoga"
+    ],
+    "lifestyle": [
+      "proper rest"
+    ],
+    "explanation": "Vata imbalance drains energy."
+  },
+  {
+    "condition": "Skin Rash Variant 4",
+    "dosha": "Pitta",
+    "symptoms": [
+      "redness",
+      "irritation"
+    ],
+    "remedies": [
+      "Neem",
+      "Aloe vera"
+    ],
+    "diet": [
+      "cooling foods"
+    ],
+    "yoga": [
+      "cooling pranayama"
+    ],
+    "lifestyle": [
+      "avoid heat"
+    ],
+    "explanation": "Pitta causes inflammation."
+  },
+  {
+    "condition": "Joint Pain Variant 4",
+    "dosha": "Vata",
+    "symptoms": [
+      "pain",
+      "stiffness"
+    ],
+    "remedies": [
+      "turmeric",
+      "oil massage"
+    ],
+    "diet": [
+      "warm food"
+    ],
+    "yoga": [
+      "gentle stretching"
+    ],
+    "lifestyle": [
+      "daily massage"
+    ],
+    "explanation": "Vata dryness causes joint pain."
+  },
+  {
+    "condition": "Headache Variant 5",
+    "dosha": "Pitta",
+    "symptoms": [
+      "burning sensation",
+      "irritability",
+      "light sensitivity"
+    ],
+    "remedies": [
+      "Brahmi",
+      "Amla",
+      "Coriander water"
+    ],
+    "diet": [
+      "cucumber",
+      "coconut water",
+      "avoid spicy food"
+    ],
+    "yoga": [
+      "Sheetali pranayama",
+      "Shavasana"
+    ],
+    "lifestyle": [
+      "sleep early",
+      "avoid screen exposure"
+    ],
+    "explanation": "Pitta imbalance causes heat accumulation leading to headaches."
+  },
+  {
+    "condition": "Anxiety Variant 5",
+    "dosha": "Vata",
+    "symptoms": [
+      "restlessness",
+      "overthinking",
+      "insomnia"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "warm milk",
+      "sesame oil massage"
+    ],
+    "diet": [
+      "warm cooked food",
+      "avoid cold food"
+    ],
+    "yoga": [
+      "Yoga Nidra",
+      "deep breathing"
+    ],
+    "lifestyle": [
+      "fixed routine",
+      "reduce stimulation"
+    ],
+    "explanation": "Vata imbalance disturbs the nervous system causing anxiety."
+  },
+  {
+    "condition": "Obesity Variant 5",
+    "dosha": "Kapha",
+    "symptoms": [
+      "weight gain",
+      "lethargy",
+      "slow metabolism"
+    ],
+    "remedies": [
+      "Triphala",
+      "ginger tea",
+      "honey water"
+    ],
+    "diet": [
+      "light food",
+      "avoid sugar",
+      "avoid dairy"
+    ],
+    "yoga": [
+      "Surya Namaskar",
+      "cardio yoga"
+    ],
+    "lifestyle": [
+      "exercise daily",
+      "wake early"
+    ],
+    "explanation": "Kapha imbalance leads to sluggish metabolism."
+  },
+  {
+    "condition": "Indigestion Variant 5",
+    "dosha": "Pitta-Vata",
+    "symptoms": [
+      "bloating",
+      "gas",
+      "acidity"
+    ],
+    "remedies": [
+      "Jeera water",
+      "hing",
+      "fennel seeds"
+    ],
+    "diet": [
+      "light meals",
+      "avoid fried food"
+    ],
+    "yoga": [
+      "Vajrasana",
+      "Pavanmuktasana"
+    ],
+    "lifestyle": [
+      "eat on time"
+    ],
+    "explanation": "Weak digestive fire leads to indigestion."
+  },
+  {
+    "condition": "Common Cold Variant 5",
+    "dosha": "Kapha",
+    "symptoms": [
+      "cough",
+      "mucus",
+      "congestion"
+    ],
+    "remedies": [
+      "Tulsi",
+      "ginger",
+      "honey"
+    ],
+    "diet": [
+      "warm fluids",
+      "avoid cold drinks"
+    ],
+    "yoga": [
+      "Anulom Vilom"
+    ],
+    "lifestyle": [
+      "stay warm"
+    ],
+    "explanation": "Kapha accumulation causes congestion."
+  },
+  {
+    "condition": "Insomnia Variant 5",
+    "dosha": "Vata",
+    "symptoms": [
+      "difficulty sleeping",
+      "restlessness"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "warm milk"
+    ],
+    "diet": [
+      "light dinner"
+    ],
+    "yoga": [
+      "Yoga Nidra"
+    ],
+    "lifestyle": [
+      "sleep routine"
+    ],
+    "explanation": "Vata imbalance overstimulates mind."
+  },
+  {
+    "condition": "Acidity Variant 5",
+    "dosha": "Pitta",
+    "symptoms": [
+      "burning chest",
+      "acid reflux"
+    ],
+    "remedies": [
+      "Amla",
+      "coconut water"
+    ],
+    "diet": [
+      "cooling foods"
+    ],
+    "yoga": [
+      "Sheetali pranayama"
+    ],
+    "lifestyle": [
+      "avoid late meals"
+    ],
+    "explanation": "Excess Pitta increases stomach acid."
+  },
+  {
+    "condition": "Fatigue Variant 5",
+    "dosha": "Vata",
+    "symptoms": [
+      "low energy",
+      "weakness"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "dates"
+    ],
+    "diet": [
+      "nutritious food"
+    ],
+    "yoga": [
+      "light yoga"
+    ],
+    "lifestyle": [
+      "proper rest"
+    ],
+    "explanation": "Vata imbalance drains energy."
+  },
+  {
+    "condition": "Skin Rash Variant 5",
+    "dosha": "Pitta",
+    "symptoms": [
+      "redness",
+      "irritation"
+    ],
+    "remedies": [
+      "Neem",
+      "Aloe vera"
+    ],
+    "diet": [
+      "cooling foods"
+    ],
+    "yoga": [
+      "cooling pranayama"
+    ],
+    "lifestyle": [
+      "avoid heat"
+    ],
+    "explanation": "Pitta causes inflammation."
+  },
+  {
+    "condition": "Joint Pain Variant 5",
+    "dosha": "Vata",
+    "symptoms": [
+      "pain",
+      "stiffness"
+    ],
+    "remedies": [
+      "turmeric",
+      "oil massage"
+    ],
+    "diet": [
+      "warm food"
+    ],
+    "yoga": [
+      "gentle stretching"
+    ],
+    "lifestyle": [
+      "daily massage"
+    ],
+    "explanation": "Vata dryness causes joint pain."
+  },
+  {
+    "condition": "Headache Variant 6",
+    "dosha": "Pitta",
+    "symptoms": [
+      "burning sensation",
+      "irritability",
+      "light sensitivity"
+    ],
+    "remedies": [
+      "Brahmi",
+      "Amla",
+      "Coriander water"
+    ],
+    "diet": [
+      "cucumber",
+      "coconut water",
+      "avoid spicy food"
+    ],
+    "yoga": [
+      "Sheetali pranayama",
+      "Shavasana"
+    ],
+    "lifestyle": [
+      "sleep early",
+      "avoid screen exposure"
+    ],
+    "explanation": "Pitta imbalance causes heat accumulation leading to headaches."
+  },
+  {
+    "condition": "Anxiety Variant 6",
+    "dosha": "Vata",
+    "symptoms": [
+      "restlessness",
+      "overthinking",
+      "insomnia"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "warm milk",
+      "sesame oil massage"
+    ],
+    "diet": [
+      "warm cooked food",
+      "avoid cold food"
+    ],
+    "yoga": [
+      "Yoga Nidra",
+      "deep breathing"
+    ],
+    "lifestyle": [
+      "fixed routine",
+      "reduce stimulation"
+    ],
+    "explanation": "Vata imbalance disturbs the nervous system causing anxiety."
+  },
+  {
+    "condition": "Obesity Variant 6",
+    "dosha": "Kapha",
+    "symptoms": [
+      "weight gain",
+      "lethargy",
+      "slow metabolism"
+    ],
+    "remedies": [
+      "Triphala",
+      "ginger tea",
+      "honey water"
+    ],
+    "diet": [
+      "light food",
+      "avoid sugar",
+      "avoid dairy"
+    ],
+    "yoga": [
+      "Surya Namaskar",
+      "cardio yoga"
+    ],
+    "lifestyle": [
+      "exercise daily",
+      "wake early"
+    ],
+    "explanation": "Kapha imbalance leads to sluggish metabolism."
+  },
+  {
+    "condition": "Indigestion Variant 6",
+    "dosha": "Pitta-Vata",
+    "symptoms": [
+      "bloating",
+      "gas",
+      "acidity"
+    ],
+    "remedies": [
+      "Jeera water",
+      "hing",
+      "fennel seeds"
+    ],
+    "diet": [
+      "light meals",
+      "avoid fried food"
+    ],
+    "yoga": [
+      "Vajrasana",
+      "Pavanmuktasana"
+    ],
+    "lifestyle": [
+      "eat on time"
+    ],
+    "explanation": "Weak digestive fire leads to indigestion."
+  },
+  {
+    "condition": "Common Cold Variant 6",
+    "dosha": "Kapha",
+    "symptoms": [
+      "cough",
+      "mucus",
+      "congestion"
+    ],
+    "remedies": [
+      "Tulsi",
+      "ginger",
+      "honey"
+    ],
+    "diet": [
+      "warm fluids",
+      "avoid cold drinks"
+    ],
+    "yoga": [
+      "Anulom Vilom"
+    ],
+    "lifestyle": [
+      "stay warm"
+    ],
+    "explanation": "Kapha accumulation causes congestion."
+  },
+  {
+    "condition": "Insomnia Variant 6",
+    "dosha": "Vata",
+    "symptoms": [
+      "difficulty sleeping",
+      "restlessness"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "warm milk"
+    ],
+    "diet": [
+      "light dinner"
+    ],
+    "yoga": [
+      "Yoga Nidra"
+    ],
+    "lifestyle": [
+      "sleep routine"
+    ],
+    "explanation": "Vata imbalance overstimulates mind."
+  },
+  {
+    "condition": "Acidity Variant 6",
+    "dosha": "Pitta",
+    "symptoms": [
+      "burning chest",
+      "acid reflux"
+    ],
+    "remedies": [
+      "Amla",
+      "coconut water"
+    ],
+    "diet": [
+      "cooling foods"
+    ],
+    "yoga": [
+      "Sheetali pranayama"
+    ],
+    "lifestyle": [
+      "avoid late meals"
+    ],
+    "explanation": "Excess Pitta increases stomach acid."
+  },
+  {
+    "condition": "Fatigue Variant 6",
+    "dosha": "Vata",
+    "symptoms": [
+      "low energy",
+      "weakness"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "dates"
+    ],
+    "diet": [
+      "nutritious food"
+    ],
+    "yoga": [
+      "light yoga"
+    ],
+    "lifestyle": [
+      "proper rest"
+    ],
+    "explanation": "Vata imbalance drains energy."
+  },
+  {
+    "condition": "Skin Rash Variant 6",
+    "dosha": "Pitta",
+    "symptoms": [
+      "redness",
+      "irritation"
+    ],
+    "remedies": [
+      "Neem",
+      "Aloe vera"
+    ],
+    "diet": [
+      "cooling foods"
+    ],
+    "yoga": [
+      "cooling pranayama"
+    ],
+    "lifestyle": [
+      "avoid heat"
+    ],
+    "explanation": "Pitta causes inflammation."
+  },
+  {
+    "condition": "Joint Pain Variant 6",
+    "dosha": "Vata",
+    "symptoms": [
+      "pain",
+      "stiffness"
+    ],
+    "remedies": [
+      "turmeric",
+      "oil massage"
+    ],
+    "diet": [
+      "warm food"
+    ],
+    "yoga": [
+      "gentle stretching"
+    ],
+    "lifestyle": [
+      "daily massage"
+    ],
+    "explanation": "Vata dryness causes joint pain."
+  },
+  {
+    "condition": "Headache Variant 7",
+    "dosha": "Pitta",
+    "symptoms": [
+      "burning sensation",
+      "irritability",
+      "light sensitivity"
+    ],
+    "remedies": [
+      "Brahmi",
+      "Amla",
+      "Coriander water"
+    ],
+    "diet": [
+      "cucumber",
+      "coconut water",
+      "avoid spicy food"
+    ],
+    "yoga": [
+      "Sheetali pranayama",
+      "Shavasana"
+    ],
+    "lifestyle": [
+      "sleep early",
+      "avoid screen exposure"
+    ],
+    "explanation": "Pitta imbalance causes heat accumulation leading to headaches."
+  },
+  {
+    "condition": "Anxiety Variant 7",
+    "dosha": "Vata",
+    "symptoms": [
+      "restlessness",
+      "overthinking",
+      "insomnia"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "warm milk",
+      "sesame oil massage"
+    ],
+    "diet": [
+      "warm cooked food",
+      "avoid cold food"
+    ],
+    "yoga": [
+      "Yoga Nidra",
+      "deep breathing"
+    ],
+    "lifestyle": [
+      "fixed routine",
+      "reduce stimulation"
+    ],
+    "explanation": "Vata imbalance disturbs the nervous system causing anxiety."
+  },
+  {
+    "condition": "Obesity Variant 7",
+    "dosha": "Kapha",
+    "symptoms": [
+      "weight gain",
+      "lethargy",
+      "slow metabolism"
+    ],
+    "remedies": [
+      "Triphala",
+      "ginger tea",
+      "honey water"
+    ],
+    "diet": [
+      "light food",
+      "avoid sugar",
+      "avoid dairy"
+    ],
+    "yoga": [
+      "Surya Namaskar",
+      "cardio yoga"
+    ],
+    "lifestyle": [
+      "exercise daily",
+      "wake early"
+    ],
+    "explanation": "Kapha imbalance leads to sluggish metabolism."
+  },
+  {
+    "condition": "Indigestion Variant 7",
+    "dosha": "Pitta-Vata",
+    "symptoms": [
+      "bloating",
+      "gas",
+      "acidity"
+    ],
+    "remedies": [
+      "Jeera water",
+      "hing",
+      "fennel seeds"
+    ],
+    "diet": [
+      "light meals",
+      "avoid fried food"
+    ],
+    "yoga": [
+      "Vajrasana",
+      "Pavanmuktasana"
+    ],
+    "lifestyle": [
+      "eat on time"
+    ],
+    "explanation": "Weak digestive fire leads to indigestion."
+  },
+  {
+    "condition": "Common Cold Variant 7",
+    "dosha": "Kapha",
+    "symptoms": [
+      "cough",
+      "mucus",
+      "congestion"
+    ],
+    "remedies": [
+      "Tulsi",
+      "ginger",
+      "honey"
+    ],
+    "diet": [
+      "warm fluids",
+      "avoid cold drinks"
+    ],
+    "yoga": [
+      "Anulom Vilom"
+    ],
+    "lifestyle": [
+      "stay warm"
+    ],
+    "explanation": "Kapha accumulation causes congestion."
+  },
+  {
+    "condition": "Insomnia Variant 7",
+    "dosha": "Vata",
+    "symptoms": [
+      "difficulty sleeping",
+      "restlessness"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "warm milk"
+    ],
+    "diet": [
+      "light dinner"
+    ],
+    "yoga": [
+      "Yoga Nidra"
+    ],
+    "lifestyle": [
+      "sleep routine"
+    ],
+    "explanation": "Vata imbalance overstimulates mind."
+  },
+  {
+    "condition": "Acidity Variant 7",
+    "dosha": "Pitta",
+    "symptoms": [
+      "burning chest",
+      "acid reflux"
+    ],
+    "remedies": [
+      "Amla",
+      "coconut water"
+    ],
+    "diet": [
+      "cooling foods"
+    ],
+    "yoga": [
+      "Sheetali pranayama"
+    ],
+    "lifestyle": [
+      "avoid late meals"
+    ],
+    "explanation": "Excess Pitta increases stomach acid."
+  },
+  {
+    "condition": "Fatigue Variant 7",
+    "dosha": "Vata",
+    "symptoms": [
+      "low energy",
+      "weakness"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "dates"
+    ],
+    "diet": [
+      "nutritious food"
+    ],
+    "yoga": [
+      "light yoga"
+    ],
+    "lifestyle": [
+      "proper rest"
+    ],
+    "explanation": "Vata imbalance drains energy."
+  },
+  {
+    "condition": "Skin Rash Variant 7",
+    "dosha": "Pitta",
+    "symptoms": [
+      "redness",
+      "irritation"
+    ],
+    "remedies": [
+      "Neem",
+      "Aloe vera"
+    ],
+    "diet": [
+      "cooling foods"
+    ],
+    "yoga": [
+      "cooling pranayama"
+    ],
+    "lifestyle": [
+      "avoid heat"
+    ],
+    "explanation": "Pitta causes inflammation."
+  },
+  {
+    "condition": "Joint Pain Variant 7",
+    "dosha": "Vata",
+    "symptoms": [
+      "pain",
+      "stiffness"
+    ],
+    "remedies": [
+      "turmeric",
+      "oil massage"
+    ],
+    "diet": [
+      "warm food"
+    ],
+    "yoga": [
+      "gentle stretching"
+    ],
+    "lifestyle": [
+      "daily massage"
+    ],
+    "explanation": "Vata dryness causes joint pain."
+  },
+  {
+    "condition": "Headache Variant 8",
+    "dosha": "Pitta",
+    "symptoms": [
+      "burning sensation",
+      "irritability",
+      "light sensitivity"
+    ],
+    "remedies": [
+      "Brahmi",
+      "Amla",
+      "Coriander water"
+    ],
+    "diet": [
+      "cucumber",
+      "coconut water",
+      "avoid spicy food"
+    ],
+    "yoga": [
+      "Sheetali pranayama",
+      "Shavasana"
+    ],
+    "lifestyle": [
+      "sleep early",
+      "avoid screen exposure"
+    ],
+    "explanation": "Pitta imbalance causes heat accumulation leading to headaches."
+  },
+  {
+    "condition": "Anxiety Variant 8",
+    "dosha": "Vata",
+    "symptoms": [
+      "restlessness",
+      "overthinking",
+      "insomnia"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "warm milk",
+      "sesame oil massage"
+    ],
+    "diet": [
+      "warm cooked food",
+      "avoid cold food"
+    ],
+    "yoga": [
+      "Yoga Nidra",
+      "deep breathing"
+    ],
+    "lifestyle": [
+      "fixed routine",
+      "reduce stimulation"
+    ],
+    "explanation": "Vata imbalance disturbs the nervous system causing anxiety."
+  },
+  {
+    "condition": "Obesity Variant 8",
+    "dosha": "Kapha",
+    "symptoms": [
+      "weight gain",
+      "lethargy",
+      "slow metabolism"
+    ],
+    "remedies": [
+      "Triphala",
+      "ginger tea",
+      "honey water"
+    ],
+    "diet": [
+      "light food",
+      "avoid sugar",
+      "avoid dairy"
+    ],
+    "yoga": [
+      "Surya Namaskar",
+      "cardio yoga"
+    ],
+    "lifestyle": [
+      "exercise daily",
+      "wake early"
+    ],
+    "explanation": "Kapha imbalance leads to sluggish metabolism."
+  },
+  {
+    "condition": "Indigestion Variant 8",
+    "dosha": "Pitta-Vata",
+    "symptoms": [
+      "bloating",
+      "gas",
+      "acidity"
+    ],
+    "remedies": [
+      "Jeera water",
+      "hing",
+      "fennel seeds"
+    ],
+    "diet": [
+      "light meals",
+      "avoid fried food"
+    ],
+    "yoga": [
+      "Vajrasana",
+      "Pavanmuktasana"
+    ],
+    "lifestyle": [
+      "eat on time"
+    ],
+    "explanation": "Weak digestive fire leads to indigestion."
+  },
+  {
+    "condition": "Common Cold Variant 8",
+    "dosha": "Kapha",
+    "symptoms": [
+      "cough",
+      "mucus",
+      "congestion"
+    ],
+    "remedies": [
+      "Tulsi",
+      "ginger",
+      "honey"
+    ],
+    "diet": [
+      "warm fluids",
+      "avoid cold drinks"
+    ],
+    "yoga": [
+      "Anulom Vilom"
+    ],
+    "lifestyle": [
+      "stay warm"
+    ],
+    "explanation": "Kapha accumulation causes congestion."
+  },
+  {
+    "condition": "Insomnia Variant 8",
+    "dosha": "Vata",
+    "symptoms": [
+      "difficulty sleeping",
+      "restlessness"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "warm milk"
+    ],
+    "diet": [
+      "light dinner"
+    ],
+    "yoga": [
+      "Yoga Nidra"
+    ],
+    "lifestyle": [
+      "sleep routine"
+    ],
+    "explanation": "Vata imbalance overstimulates mind."
+  },
+  {
+    "condition": "Acidity Variant 8",
+    "dosha": "Pitta",
+    "symptoms": [
+      "burning chest",
+      "acid reflux"
+    ],
+    "remedies": [
+      "Amla",
+      "coconut water"
+    ],
+    "diet": [
+      "cooling foods"
+    ],
+    "yoga": [
+      "Sheetali pranayama"
+    ],
+    "lifestyle": [
+      "avoid late meals"
+    ],
+    "explanation": "Excess Pitta increases stomach acid."
+  },
+  {
+    "condition": "Fatigue Variant 8",
+    "dosha": "Vata",
+    "symptoms": [
+      "low energy",
+      "weakness"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "dates"
+    ],
+    "diet": [
+      "nutritious food"
+    ],
+    "yoga": [
+      "light yoga"
+    ],
+    "lifestyle": [
+      "proper rest"
+    ],
+    "explanation": "Vata imbalance drains energy."
+  },
+  {
+    "condition": "Skin Rash Variant 8",
+    "dosha": "Pitta",
+    "symptoms": [
+      "redness",
+      "irritation"
+    ],
+    "remedies": [
+      "Neem",
+      "Aloe vera"
+    ],
+    "diet": [
+      "cooling foods"
+    ],
+    "yoga": [
+      "cooling pranayama"
+    ],
+    "lifestyle": [
+      "avoid heat"
+    ],
+    "explanation": "Pitta causes inflammation."
+  },
+  {
+    "condition": "Joint Pain Variant 8",
+    "dosha": "Vata",
+    "symptoms": [
+      "pain",
+      "stiffness"
+    ],
+    "remedies": [
+      "turmeric",
+      "oil massage"
+    ],
+    "diet": [
+      "warm food"
+    ],
+    "yoga": [
+      "gentle stretching"
+    ],
+    "lifestyle": [
+      "daily massage"
+    ],
+    "explanation": "Vata dryness causes joint pain."
+  },
+  {
+    "condition": "Headache Variant 9",
+    "dosha": "Pitta",
+    "symptoms": [
+      "burning sensation",
+      "irritability",
+      "light sensitivity"
+    ],
+    "remedies": [
+      "Brahmi",
+      "Amla",
+      "Coriander water"
+    ],
+    "diet": [
+      "cucumber",
+      "coconut water",
+      "avoid spicy food"
+    ],
+    "yoga": [
+      "Sheetali pranayama",
+      "Shavasana"
+    ],
+    "lifestyle": [
+      "sleep early",
+      "avoid screen exposure"
+    ],
+    "explanation": "Pitta imbalance causes heat accumulation leading to headaches."
+  },
+  {
+    "condition": "Anxiety Variant 9",
+    "dosha": "Vata",
+    "symptoms": [
+      "restlessness",
+      "overthinking",
+      "insomnia"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "warm milk",
+      "sesame oil massage"
+    ],
+    "diet": [
+      "warm cooked food",
+      "avoid cold food"
+    ],
+    "yoga": [
+      "Yoga Nidra",
+      "deep breathing"
+    ],
+    "lifestyle": [
+      "fixed routine",
+      "reduce stimulation"
+    ],
+    "explanation": "Vata imbalance disturbs the nervous system causing anxiety."
+  },
+  {
+    "condition": "Obesity Variant 9",
+    "dosha": "Kapha",
+    "symptoms": [
+      "weight gain",
+      "lethargy",
+      "slow metabolism"
+    ],
+    "remedies": [
+      "Triphala",
+      "ginger tea",
+      "honey water"
+    ],
+    "diet": [
+      "light food",
+      "avoid sugar",
+      "avoid dairy"
+    ],
+    "yoga": [
+      "Surya Namaskar",
+      "cardio yoga"
+    ],
+    "lifestyle": [
+      "exercise daily",
+      "wake early"
+    ],
+    "explanation": "Kapha imbalance leads to sluggish metabolism."
+  },
+  {
+    "condition": "Indigestion Variant 9",
+    "dosha": "Pitta-Vata",
+    "symptoms": [
+      "bloating",
+      "gas",
+      "acidity"
+    ],
+    "remedies": [
+      "Jeera water",
+      "hing",
+      "fennel seeds"
+    ],
+    "diet": [
+      "light meals",
+      "avoid fried food"
+    ],
+    "yoga": [
+      "Vajrasana",
+      "Pavanmuktasana"
+    ],
+    "lifestyle": [
+      "eat on time"
+    ],
+    "explanation": "Weak digestive fire leads to indigestion."
+  },
+  {
+    "condition": "Common Cold Variant 9",
+    "dosha": "Kapha",
+    "symptoms": [
+      "cough",
+      "mucus",
+      "congestion"
+    ],
+    "remedies": [
+      "Tulsi",
+      "ginger",
+      "honey"
+    ],
+    "diet": [
+      "warm fluids",
+      "avoid cold drinks"
+    ],
+    "yoga": [
+      "Anulom Vilom"
+    ],
+    "lifestyle": [
+      "stay warm"
+    ],
+    "explanation": "Kapha accumulation causes congestion."
+  },
+  {
+    "condition": "Insomnia Variant 9",
+    "dosha": "Vata",
+    "symptoms": [
+      "difficulty sleeping",
+      "restlessness"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "warm milk"
+    ],
+    "diet": [
+      "light dinner"
+    ],
+    "yoga": [
+      "Yoga Nidra"
+    ],
+    "lifestyle": [
+      "sleep routine"
+    ],
+    "explanation": "Vata imbalance overstimulates mind."
+  },
+  {
+    "condition": "Acidity Variant 9",
+    "dosha": "Pitta",
+    "symptoms": [
+      "burning chest",
+      "acid reflux"
+    ],
+    "remedies": [
+      "Amla",
+      "coconut water"
+    ],
+    "diet": [
+      "cooling foods"
+    ],
+    "yoga": [
+      "Sheetali pranayama"
+    ],
+    "lifestyle": [
+      "avoid late meals"
+    ],
+    "explanation": "Excess Pitta increases stomach acid."
+  },
+  {
+    "condition": "Fatigue Variant 9",
+    "dosha": "Vata",
+    "symptoms": [
+      "low energy",
+      "weakness"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "dates"
+    ],
+    "diet": [
+      "nutritious food"
+    ],
+    "yoga": [
+      "light yoga"
+    ],
+    "lifestyle": [
+      "proper rest"
+    ],
+    "explanation": "Vata imbalance drains energy."
+  },
+  {
+    "condition": "Skin Rash Variant 9",
+    "dosha": "Pitta",
+    "symptoms": [
+      "redness",
+      "irritation"
+    ],
+    "remedies": [
+      "Neem",
+      "Aloe vera"
+    ],
+    "diet": [
+      "cooling foods"
+    ],
+    "yoga": [
+      "cooling pranayama"
+    ],
+    "lifestyle": [
+      "avoid heat"
+    ],
+    "explanation": "Pitta causes inflammation."
+  },
+  {
+    "condition": "Joint Pain Variant 9",
+    "dosha": "Vata",
+    "symptoms": [
+      "pain",
+      "stiffness"
+    ],
+    "remedies": [
+      "turmeric",
+      "oil massage"
+    ],
+    "diet": [
+      "warm food"
+    ],
+    "yoga": [
+      "gentle stretching"
+    ],
+    "lifestyle": [
+      "daily massage"
+    ],
+    "explanation": "Vata dryness causes joint pain."
+  },
+  {
+    "condition": "Headache Variant 10",
+    "dosha": "Pitta",
+    "symptoms": [
+      "burning sensation",
+      "irritability",
+      "light sensitivity"
+    ],
+    "remedies": [
+      "Brahmi",
+      "Amla",
+      "Coriander water"
+    ],
+    "diet": [
+      "cucumber",
+      "coconut water",
+      "avoid spicy food"
+    ],
+    "yoga": [
+      "Sheetali pranayama",
+      "Shavasana"
+    ],
+    "lifestyle": [
+      "sleep early",
+      "avoid screen exposure"
+    ],
+    "explanation": "Pitta imbalance causes heat accumulation leading to headaches."
+  },
+  {
+    "condition": "Anxiety Variant 10",
+    "dosha": "Vata",
+    "symptoms": [
+      "restlessness",
+      "overthinking",
+      "insomnia"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "warm milk",
+      "sesame oil massage"
+    ],
+    "diet": [
+      "warm cooked food",
+      "avoid cold food"
+    ],
+    "yoga": [
+      "Yoga Nidra",
+      "deep breathing"
+    ],
+    "lifestyle": [
+      "fixed routine",
+      "reduce stimulation"
+    ],
+    "explanation": "Vata imbalance disturbs the nervous system causing anxiety."
+  },
+  {
+    "condition": "Obesity Variant 10",
+    "dosha": "Kapha",
+    "symptoms": [
+      "weight gain",
+      "lethargy",
+      "slow metabolism"
+    ],
+    "remedies": [
+      "Triphala",
+      "ginger tea",
+      "honey water"
+    ],
+    "diet": [
+      "light food",
+      "avoid sugar",
+      "avoid dairy"
+    ],
+    "yoga": [
+      "Surya Namaskar",
+      "cardio yoga"
+    ],
+    "lifestyle": [
+      "exercise daily",
+      "wake early"
+    ],
+    "explanation": "Kapha imbalance leads to sluggish metabolism."
+  },
+  {
+    "condition": "Indigestion Variant 10",
+    "dosha": "Pitta-Vata",
+    "symptoms": [
+      "bloating",
+      "gas",
+      "acidity"
+    ],
+    "remedies": [
+      "Jeera water",
+      "hing",
+      "fennel seeds"
+    ],
+    "diet": [
+      "light meals",
+      "avoid fried food"
+    ],
+    "yoga": [
+      "Vajrasana",
+      "Pavanmuktasana"
+    ],
+    "lifestyle": [
+      "eat on time"
+    ],
+    "explanation": "Weak digestive fire leads to indigestion."
+  },
+  {
+    "condition": "Common Cold Variant 10",
+    "dosha": "Kapha",
+    "symptoms": [
+      "cough",
+      "mucus",
+      "congestion"
+    ],
+    "remedies": [
+      "Tulsi",
+      "ginger",
+      "honey"
+    ],
+    "diet": [
+      "warm fluids",
+      "avoid cold drinks"
+    ],
+    "yoga": [
+      "Anulom Vilom"
+    ],
+    "lifestyle": [
+      "stay warm"
+    ],
+    "explanation": "Kapha accumulation causes congestion."
+  },
+  {
+    "condition": "Insomnia Variant 10",
+    "dosha": "Vata",
+    "symptoms": [
+      "difficulty sleeping",
+      "restlessness"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "warm milk"
+    ],
+    "diet": [
+      "light dinner"
+    ],
+    "yoga": [
+      "Yoga Nidra"
+    ],
+    "lifestyle": [
+      "sleep routine"
+    ],
+    "explanation": "Vata imbalance overstimulates mind."
+  },
+  {
+    "condition": "Acidity Variant 10",
+    "dosha": "Pitta",
+    "symptoms": [
+      "burning chest",
+      "acid reflux"
+    ],
+    "remedies": [
+      "Amla",
+      "coconut water"
+    ],
+    "diet": [
+      "cooling foods"
+    ],
+    "yoga": [
+      "Sheetali pranayama"
+    ],
+    "lifestyle": [
+      "avoid late meals"
+    ],
+    "explanation": "Excess Pitta increases stomach acid."
+  },
+  {
+    "condition": "Fatigue Variant 10",
+    "dosha": "Vata",
+    "symptoms": [
+      "low energy",
+      "weakness"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "dates"
+    ],
+    "diet": [
+      "nutritious food"
+    ],
+    "yoga": [
+      "light yoga"
+    ],
+    "lifestyle": [
+      "proper rest"
+    ],
+    "explanation": "Vata imbalance drains energy."
+  },
+  {
+    "condition": "Skin Rash Variant 10",
+    "dosha": "Pitta",
+    "symptoms": [
+      "redness",
+      "irritation"
+    ],
+    "remedies": [
+      "Neem",
+      "Aloe vera"
+    ],
+    "diet": [
+      "cooling foods"
+    ],
+    "yoga": [
+      "cooling pranayama"
+    ],
+    "lifestyle": [
+      "avoid heat"
+    ],
+    "explanation": "Pitta causes inflammation."
+  },
+  {
+    "condition": "Joint Pain Variant 10",
+    "dosha": "Vata",
+    "symptoms": [
+      "pain",
+      "stiffness"
+    ],
+    "remedies": [
+      "turmeric",
+      "oil massage"
+    ],
+    "diet": [
+      "warm food"
+    ],
+    "yoga": [
+      "gentle stretching"
+    ],
+    "lifestyle": [
+      "daily massage"
+    ],
+    "explanation": "Vata dryness causes joint pain."
+  },
+  {
+    "condition": "Headache Variant 11",
+    "dosha": "Pitta",
+    "symptoms": [
+      "burning sensation",
+      "irritability",
+      "light sensitivity"
+    ],
+    "remedies": [
+      "Brahmi",
+      "Amla",
+      "Coriander water"
+    ],
+    "diet": [
+      "cucumber",
+      "coconut water",
+      "avoid spicy food"
+    ],
+    "yoga": [
+      "Sheetali pranayama",
+      "Shavasana"
+    ],
+    "lifestyle": [
+      "sleep early",
+      "avoid screen exposure"
+    ],
+    "explanation": "Pitta imbalance causes heat accumulation leading to headaches."
+  },
+  {
+    "condition": "Anxiety Variant 11",
+    "dosha": "Vata",
+    "symptoms": [
+      "restlessness",
+      "overthinking",
+      "insomnia"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "warm milk",
+      "sesame oil massage"
+    ],
+    "diet": [
+      "warm cooked food",
+      "avoid cold food"
+    ],
+    "yoga": [
+      "Yoga Nidra",
+      "deep breathing"
+    ],
+    "lifestyle": [
+      "fixed routine",
+      "reduce stimulation"
+    ],
+    "explanation": "Vata imbalance disturbs the nervous system causing anxiety."
+  },
+  {
+    "condition": "Obesity Variant 11",
+    "dosha": "Kapha",
+    "symptoms": [
+      "weight gain",
+      "lethargy",
+      "slow metabolism"
+    ],
+    "remedies": [
+      "Triphala",
+      "ginger tea",
+      "honey water"
+    ],
+    "diet": [
+      "light food",
+      "avoid sugar",
+      "avoid dairy"
+    ],
+    "yoga": [
+      "Surya Namaskar",
+      "cardio yoga"
+    ],
+    "lifestyle": [
+      "exercise daily",
+      "wake early"
+    ],
+    "explanation": "Kapha imbalance leads to sluggish metabolism."
+  },
+  {
+    "condition": "Indigestion Variant 11",
+    "dosha": "Pitta-Vata",
+    "symptoms": [
+      "bloating",
+      "gas",
+      "acidity"
+    ],
+    "remedies": [
+      "Jeera water",
+      "hing",
+      "fennel seeds"
+    ],
+    "diet": [
+      "light meals",
+      "avoid fried food"
+    ],
+    "yoga": [
+      "Vajrasana",
+      "Pavanmuktasana"
+    ],
+    "lifestyle": [
+      "eat on time"
+    ],
+    "explanation": "Weak digestive fire leads to indigestion."
+  },
+  {
+    "condition": "Common Cold Variant 11",
+    "dosha": "Kapha",
+    "symptoms": [
+      "cough",
+      "mucus",
+      "congestion"
+    ],
+    "remedies": [
+      "Tulsi",
+      "ginger",
+      "honey"
+    ],
+    "diet": [
+      "warm fluids",
+      "avoid cold drinks"
+    ],
+    "yoga": [
+      "Anulom Vilom"
+    ],
+    "lifestyle": [
+      "stay warm"
+    ],
+    "explanation": "Kapha accumulation causes congestion."
+  },
+  {
+    "condition": "Insomnia Variant 11",
+    "dosha": "Vata",
+    "symptoms": [
+      "difficulty sleeping",
+      "restlessness"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "warm milk"
+    ],
+    "diet": [
+      "light dinner"
+    ],
+    "yoga": [
+      "Yoga Nidra"
+    ],
+    "lifestyle": [
+      "sleep routine"
+    ],
+    "explanation": "Vata imbalance overstimulates mind."
+  },
+  {
+    "condition": "Acidity Variant 11",
+    "dosha": "Pitta",
+    "symptoms": [
+      "burning chest",
+      "acid reflux"
+    ],
+    "remedies": [
+      "Amla",
+      "coconut water"
+    ],
+    "diet": [
+      "cooling foods"
+    ],
+    "yoga": [
+      "Sheetali pranayama"
+    ],
+    "lifestyle": [
+      "avoid late meals"
+    ],
+    "explanation": "Excess Pitta increases stomach acid."
+  },
+  {
+    "condition": "Fatigue Variant 11",
+    "dosha": "Vata",
+    "symptoms": [
+      "low energy",
+      "weakness"
+    ],
+    "remedies": [
+      "Ashwagandha",
+      "dates"
+    ],
+    "diet": [
+      "nutritious food"
+    ],
+    "yoga": [
+      "light yoga"
+    ],
+    "lifestyle": [
+      "proper rest"
+    ],
+    "explanation": "Vata imbalance drains energy."
+  },
+  {
+    "condition": "Skin Rash Variant 11",
+    "dosha": "Pitta",
+    "symptoms": [
+      "redness",
+      "irritation"
+    ],
+    "remedies": [
+      "Neem",
+      "Aloe vera"
+    ],
+    "diet": [
+      "cooling foods"
+    ],
+    "yoga": [
+      "cooling pranayama"
+    ],
+    "lifestyle": [
+      "avoid heat"
+    ],
+    "explanation": "Pitta causes inflammation."
+  },
+  {
+    "condition": "Joint Pain Variant 11",
+    "dosha": "Vata",
+    "symptoms": [
+      "pain",
+      "stiffness"
+    ],
+    "remedies": [
+      "turmeric",
+      "oil massage"
+    ],
+    "diet": [
+      "warm food"
+    ],
+    "yoga": [
+      "gentle stretching"
+    ],
+    "lifestyle": [
+      "daily massage"
+    ],
+    "explanation": "Vata dryness causes joint pain."
+  }
+]
