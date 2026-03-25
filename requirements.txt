@@ -1,5 +1,24 @@
+# Core ML / RAG
 faiss-cpu
 numpy
-groq
 sentence-transformers
+
+# LLM
+groq
+
+# Environment
 python-dotenv
+
+# Web + UI
+streamlit
+
+# Computer Vision
+opencv-python
+mediapipe
+
+# Data handling
+pandas
+
+# Utilities
+requests
+joblib
