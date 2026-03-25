@@ -10,28 +10,22 @@ from rag.generate import generate
 # =========================
 # 🔹 LOAD ML MODEL
 # =========================
-
-with open("ayush-rag-cli\dosha_model_v1.pkl", "rb") as f:
+with open(r"D:\InnoAI\ayush-rag-cli\InnoAIhack\dosha_model_v1 (2).pkl", "rb") as f:
     model = pickle.load(f)
 
-with open("ayush-rag-cli\dosha_model_v1.pkl", "rb") as f:
-    vectorizer = pickle.load(f)
 
 
 def predict_dosha(text):
-    X = vectorizer.transform([text])
-    pred = model.predict(X)[0]
-    probs = model.predict_proba(X)[0]
+    pred = model.predict([text])[0]
+    probs = model.predict_proba([text])[0]
 
     confidence = dict(zip(model.classes_, probs))
     return pred, confidence
-
-
 # =========================
 # 🔹 GEO MODULE
 # =========================
 
-API_KEY = "your_openweather_key_here"
+API_KEY =0
 
 
 def get_weather(city):
